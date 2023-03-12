@@ -153,6 +153,11 @@ hr {
   transition: opacity 0.3s;
 }
 
+.label:active .title-wrapper .button-close__img {
+  fill:  #2b24e3;
+}
+
+
 .label:active .title-wrapper .title {
   color: #2b24e3 !important;
 }
